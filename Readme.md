@@ -1,1 +1,1 @@
-Olá, aqui é meu repositorio onde guardo estudos, códigos e materiais relacionados à disciplina de Algoritmos.
+Olá, aqui é meu repositório onde guardo estudos, códigos e materiais relacionados à disciplina de Algoritmos.
