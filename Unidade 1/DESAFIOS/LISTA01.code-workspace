@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../LISTA01"
+		},
+		{
+			"path": "../LISTA02"
+		},
+		{
+			"path": "../LISTA03"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"editor.fontSize": 14
+	}
+}
